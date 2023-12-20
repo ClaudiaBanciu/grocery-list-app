@@ -15,6 +15,9 @@ In this application we named our database 'groceries', however, if you went with
 To runt the application:
 
 cd backend
+
 $ npm start
+
 cd ../groceryapp
+
 $ ng serve
