@@ -2,6 +2,7 @@
 2. Create backend/config/config.json and change the password to your MySQL password.
 
   {
+    
     "host": "localhost",
     
     "user": "root",
